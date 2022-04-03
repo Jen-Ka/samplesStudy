@@ -19,7 +19,7 @@ public class MassiveObjects {
 
         System.out.println("_________________");
 
-        System.out.println("Длина массива 2: " + korzinaProductov.length);
+        System.out.println("Длина массива 2: " + korzinaProductov.length); // вычисляем длину массива и распечатываем
         System.out.println("Длина массива 1: " + array2.length);
 
         System.out.println(Arrays.toString(array2)); //метод Arrays.toString(), выдаёт печатную версию одномерного массива
